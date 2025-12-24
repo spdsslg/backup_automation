@@ -1,3 +1,11 @@
 *.pdf
 .clang-format
 sop-backup
+
+/build/
+/*.exe
+/*.o
+/*.obj
+
+*.swp
+*.vscode/
