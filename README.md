@@ -17,10 +17,7 @@ source with inotify to reflect creates, updates, moves, and deletions.
 - `make` and a C compiler (tested with `cc`).
 
 ## Build
-```
-cd /Users/mihailmoroz/Documents/cpp_project/OPS_proj
-make
-```
+Build a project in the project directory with ```make```
 
 The binary is `sop-backup`.
 
